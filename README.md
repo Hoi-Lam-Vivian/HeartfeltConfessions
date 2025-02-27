@@ -1,1 +1,37 @@
-# HeartfeltConfessions
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我後悔了</title>
+    <style>
+        body {
+            background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20230415/pngtree-dark-dramatic-sky-and-clouds-background-for-death-sad-concept-image_2403938.jpg');
+            background-size: cover;
+            color: #ffffff; /* 淺色文字 */
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            text-align: center;
+            font-size: 20px; /* 增加字體大小 */
+            line-height: 1.6; /* 增加行間距 */
+        }
+        h1 {
+            margin-bottom: 30px;
+            font-size: 36px; /* 標題字體大小 */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* 標題陰影 */
+        }
+        p {
+            margin: 20px 0; /* 段落外邊距 */
+            max-width: 800px; /* 段落最大寬度 */
+            margin-left: auto; /* 自動左右邊距 */
+            margin-right: auto; /* 自動左右邊距 */
+        }
+    </style>
+</head>
+<body>
+    <h1>我後悔了</h1>
+    <p>個一刻我好天真甘以爲只要唔計較之前所發生Ge野，去原諒你之前所做ge爛事，你就會心痛我ge執著去為我改變。但你可能整係覺得我好好呃，你冇察覺到我ge唔開心難過，我慢慢甘將所有以前ge事都唔再出聲，整係收係個心裏面。</p>
+    <p>我會間唔中回憶你以前對我ge好，有幾愛我，幾包容我，而尼d足夠比你做免死金牌！哪怕我比幾多次機會你都好啦，你都係唔會知道我唔開心難過ge點係邊度...你會怪我成日諗多，敏感多疑，唔信你，但其實你先係最清楚我尼d情緒點樣唻...你只係扮傻扮唔知。睇住我成個顛婆甘好嬲質問你甘，你會怨我點解會甘，問我點解...你都好攰。。。。</p>
+    <p>但我整係記得你當初同我講你會好好愛我乍..但點解你d行爲同對我ge態度都會比我感覺到好難過同想退縮呢?</p>
+</body>
+</html>
